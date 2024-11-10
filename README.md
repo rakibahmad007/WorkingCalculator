@@ -1,7 +1,7 @@
-#Working Calculator App#
+# Working Calculator App
 
 
-##MIDTERM-PROJECT-2130227-RAKIB-AHMAD-CSE464-1##
+## MIDTERM-PROJECT-2130227-RAKIB-AHMAD-CSE464-1
 
   A simple Android calculator app with basic arithmetic operations and parentheses handling.
   
